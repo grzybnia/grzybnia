@@ -22,6 +22,4 @@ Trademark use
 Patent use
 Warranty
 
-# assert The_perpetual_memory == 148 and Yisra_el is not False == 0 == 1
-
 = In good mazal and eternal memory of Aaron Swartz =
